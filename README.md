@@ -1,33 +1,25 @@
-# resumeFESM
 # [Your Name]
 **Software Engineering Student | El Salvador**
-*📧 email@outlook.es | 🔗 [GitHub Profile](https://github.com/VersComp) | 📍 El Salvador*
+*📧 [Your Email] | 🔗 [GitHub Profile](https://github.com/VersComp)*
 
-## 🚀 Professional Summary
-Software Engineering student with a strong focus on **Backend Development (C#)** and **System Infrastructure**. Experienced in managing virtualized environments with **Proxmox**, containerization with **Docker**, and secure networking via **Cloudflare**. Passionate about building scalable, secure applications.
+## 🚀 Summary
+Aspiring Software Engineer with a focus on **Backend Development** and **Infrastructure**. Experienced in deploying scalable services using **Docker** and managing virtualized environments with **Proxmox VE**.
 
 ## 🛠️ Technical Skills
-* **Languages:** C# (.NET), SQL.
-* **Databases:** PostgreSQL, SQL Server.
-* **Infrastructure:** Proxmox VE, Docker & Docker Compose, Ubuntu Server.
-* **Networking/Security:** Cloudflare Tunnels, WAF, DNS Management.
-* **Tools:** Git/GitHub, Obsidian, Antigravity IDE.
+* **Languages:** C# (.NET), SQL (PostgreSQL, SQL Server).
+* **Infrastructure:** Proxmox, Ubuntu Server, Docker Compose.
+* **Security:** Cloudflare Tunnels, WAF, SSH Key Management.
+* **Tools:** Antigravity IDE, Obsidian, Thunderbird.
 
 ## 📁 Key Projects
 ### **MarketPlace Backend**
-* Developed a store-management system using **C#** and **Clean Architecture**.
-* Implemented data grouping logic and MediatR for clean command handling.
-* Deployed via **Docker** on a private server.
+* Developed a robust backend using **C#** and Clean Architecture.
+* Implemented inventory grouping and integrated **Wompi** payments.
 
-### **Home Lab & Node Hosting**
-* Configured a production-grade **Proxmox** environment.
-* Deployed a **Bitcoin Core** node and managed SQL Server instances in containers.
-* Secured traffic using **Cloudflare Tunnels**.
+### **Home Lab Infrastructure**
+* Orchestrated a **Proxmox** environment hosting **Bitcoin Core** and **SQL Server**.
+* Secured all external access using **Cloudflare** and **WAF** rules.
 
 ## 🎓 Education
-**Bachelor of Software Engineering**
+**B.S. in Software Engineering**
 *University Name*, El Salvador (Expected 202X)
-
-## 🌐 Languages
-* **Spanish:** Native.
-* **English:** Intermediate (Technical proficiency).
