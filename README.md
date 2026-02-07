@@ -7,11 +7,11 @@
 
 ---
 
-## Summary
+## 📋 Summary
 
 Over **20 years** of experience working with computers, from software and hardware installation to building applications for business management. Strong background in **C#** for desktop and web applications. Currently pursuing a **Software Engineering** degree at Universidad de El Salvador (online). Available for full-time or hourly work; registered IVA taxpayer and open to offering professional services.
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 | Category | Technologies |
 |----------|---------------|
@@ -21,26 +21,26 @@ Over **20 years** of experience working with computers, from software and hardwa
 | **Databases** | Microsoft SQL Server, Oracle; document databases (basic concepts) |
 | **Dev & Ops** | GitHub, Docker, Postman, Microsoft Azure, AWS (basic) |
 
-## Soft Skills
+## 💡 Soft Skills
 
 Teamwork · Ease of learning · Self-initiative · Punctuality · Friendly · Constant learning · Ease of expression
 
-## Languages
+## 🌐 Languages
 
 - **Spanish** — Native
 - **English** — Writing: intermediate · Pronunciation: basic
 
-## Key Projects
+## 📁 Key Projects
 
-### MarketPlace Backend
+### 🛒 MarketPlace Backend
 - Developed a robust backend using **C#** and Clean Architecture.
 - Implemented inventory grouping and integrated **Wompi** payments.
 
-### Home Lab Infrastructure
+### 🏠 Home Lab Infrastructure
 - Orchestrated a **Proxmox** environment hosting **Bitcoin Core** and **SQL Server**.
 - Secured all external access using **Cloudflare** and **WAF** rules.
 
-## Education
+## 🎓 Education
 
 | Degree | Institution | Period |
 |--------|-------------|--------|
@@ -48,7 +48,7 @@ Teamwork · Ease of learning · Self-initiative · Punctuality · Friendly · Co
 | **Técnico en Ingeniería en Computación** | Instituto Tecnológico de Sonsonate | 2004 – 2005 |
 | **Bachillerato General** | C.E. General Francisco Menéndez | 2002 – 2003 |
 
-## References
+## 👥 References
 
 **Manuel Ramos** — +503 6177 6199  
 **Luis Ángel Galicia** — +503 7844 2943
