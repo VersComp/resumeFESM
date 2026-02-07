@@ -1,34 +1,34 @@
-# [Your Name]
+# Fernando Edgardo Saz Márquez
 
-**Software Engineering Student | El Salvador**
+**Computer Technician (Tec. en Computación) | El Salvador**
 
-📧 [your.email@example.com] · 🔗 [GitHub](https://github.com/VersComp) · 📍 [City], El Salvador
+📧 fsaz87@hotmail.com · 📱 +503 77413250 · 🔗 [GitHub](https://github.com/SM23001)  
+📍 Av. 15 Abril Norte, Apaneca - Ahuachapán
 
 ---
 
 ## Summary
 
-Aspiring Software Engineer with a focus on **Backend Development** and **Infrastructure**. Experienced in deploying scalable services using **Docker** and managing virtualized environments with **Proxmox VE**.
+Over **20 years** of experience working with computers, from software and hardware installation to building applications for business management. Strong background in **C#** for desktop and web applications. Currently pursuing a **Software Engineering** degree at Universidad de El Salvador (online). Available for full-time or hourly work; registered IVA taxpayer and open to offering professional services.
 
 ## Technical Skills
 
 | Category | Technologies |
 |----------|---------------|
-| **Languages** | C# (.NET), SQL (PostgreSQL, SQL Server) |
-| **Infrastructure** | Proxmox, Ubuntu Server, Docker Compose |
-| **Security** | Cloudflare Tunnels, WAF, SSH Key Management |
-| **Tools** | Antigravity IDE, Obsidian, Thunderbird |
+| **Backend** | C# (desktop, 3-layer model), ASP.NET Core MVC, DDD, .NET Framework, Entity Framework |
+| **Frontend** | React, Angular (basic) |
+| **Web** | HTML, JavaScript, CSS |
+| **Databases** | Microsoft SQL Server, Oracle; document databases (basic concepts) |
+| **Dev & Ops** | GitHub, Docker, Postman, Microsoft Azure, AWS (basic) |
 
-## Experience
+## Soft Skills
 
-*Optional: add internships, part-time roles, or open-source contributions.*
+Teamwork · Ease of learning · Self-initiative · Punctuality · Friendly · Constant learning · Ease of expression
 
-<!--
-### [Job Title] — [Company Name]
-*[Start Month Year] – [End Month Year]*
-- [Achievement or responsibility]
-- [Achievement or responsibility]
--->
+## Languages
+
+- **Spanish** — Native
+- **English** — Writing: intermediate · Pronunciation: basic
 
 ## Key Projects
 
@@ -42,9 +42,13 @@ Aspiring Software Engineer with a focus on **Backend Development** and **Infrast
 
 ## Education
 
-**B.S. in Software Engineering**  
-[University Name], El Salvador · *Expected [Year]*
+| Degree | Institution | Period |
+|--------|-------------|--------|
+| **Ingeniería en Desarrollo de Software** | Universidad de El Salvador (UES) | 2023 – present |
+| **Técnico en Ingeniería en Computación** | Instituto Tecnológico de Sonsonate | 2004 – 2005 |
+| **Bachillerato General** | C.E. General Francisco Menéndez | 2002 – 2003 |
 
----
+## References
 
-*Replace all bracketed placeholders with your real information. Remove optional sections you don’t need.*
+**Manuel Ramos** — +503 6177 6199  
+**Luis Ángel Galicia** — +503 7844 2943
